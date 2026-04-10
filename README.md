@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🚀 Olá, eu sou Lúcio Rafael! 
+### Especialista em Infraestrutura | Futuro Engenheiro de Dados & IA
 
-<!--
-**lrfa2/lrfa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mim
+[cite_start]Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte de alta complexidade[cite: 35]. [cite_start]Atualmente, estou aplicando minha maturidade profissional na fronteira da **Inteligência Artificial**[cite: 36, 40].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [cite_start]🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso)[cite: 5, 72].
+- [cite_start]🏗️ **Foco Atual:** Transição para Engenharia de Dados e Análise Preditiva[cite: 36, 40].
+- [cite_start]🛠️ **Diferencial:** Visão crítica de "chão de fábrica" da TI aplicada a soluções inteligentes[cite: 40].
+- [cite_start]📍 **Localização:** Contagem, MG - Brasil[cite: 33, 44].
+
+---
+
+## 📊 Estatísticas e Stack Técnica
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrfa2&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+</div>
+
+### 🛠️ Tecnologias & Ferramentas
+- [cite_start]**Linguagens:** Python (Automação e Scripts).
+- [cite_start]**Dados:** SQL (Extração e Modelagem), Integridade de Dados (GIGO)[cite: 37, 39, 45].
+- [cite_start]**Infraestrutura:** Gestão de Redes, CFTV e Manutenção Preditiva (redução de 60% em falhas)[cite: 56, 57, 58].
+- [cite_start]**Soft Skills:** Inteligência Emocional, ESG e Liderança de Processos[cite: 27, 28, 68].
+
+---
+
+## 💼 Experiência em Destaque
+- [cite_start]**PropTech AI (IFNMG):** Assistente em Dados Júnior (Projetos Acadêmicos)[cite: 40, 42, 43].
+- [cite_start]**Wespseg:** Especialista em Suporte e Segurança Eletrônica[cite: 53].
+- [cite_start]**Plantão do Celular:** Microempresário e Gestor Técnico por 6 anos[cite: 66].
+
+---
+
+## 🤝 Conecte-se Comigo
+<div align="left">
+  <a href="https://www.linkedin.com/in/sr-lucio-silva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rafaelferreira.ads@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  [cite_start]<i>"Garbage In, Garbage Out: Garantindo a integridade dos dados para modelos de IA eficientes."</i> 
+</p>
