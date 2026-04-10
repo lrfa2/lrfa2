@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou Lúcio Rafael! 
+# 🚀 Olá, eu sou Lúcio Rafael ! 
 ### **Especialista em Infraestrutura de TI | Futuro Técnico em Engenheiro de Dados & IA**
 
 ---
