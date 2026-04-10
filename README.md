@@ -4,27 +4,27 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte técnico de alta complexidade[cite: 213]. Atualmente, estou transitando minha expertise para o campo da **Inteligência Artificial e Engenharia de Dados** através do IFNMG[cite: 214].
+Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte técnico de alta complexidade. Atualmente, estou transitando minha expertise para o campo da **Inteligência Artificial e Engenharia de Dados** através do IFNMG.
 
-* 🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso)[cite: 250].
-* 🏗️ **Foco Atual:** Engenharia de Dados e Análise Preditiva[cite: 218].
-* 🛠️ **Diferencial:** Visão crítica de "chão de fábrica" da TI aplicada a soluções inteligentes[cite: 218].
-* 📍 **Localização:** Contagem, MG - Brasil[cite: 211].
+* 🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso).
+* 🏗️ **Foco Atual:** Engenharia de Dados e Análise Preditiva.
+* 🛠️ **Diferencial:** Visão crítica de "chão de fábrica" da TI aplicada a soluções inteligentes.
+* 📍 **Localização:** Contagem, MG - Brasil.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-* 📊 **Dados:** SQL (Extração e Modelagem) e Integridade de Dados (GIGO)[cite: 215, 217].
-* 🐍 **Programação:** Python para automação e análise de dados[cite: 216].
-* 🌐 **Infraestrutura:** Redes, CFTV e Manutenção Preditiva (redução de 60% em falhas)[cite: 234, 236].
-* 🧠 **Soft Skills:** Inteligência Emocional, ESG e Liderança de Processos[cite: 205, 206, 247].
+* 📊 **Dados:** SQL (Extração e Modelagem) e Integridade de Dados (GIGO).
+* 🐍 **Programação:** Python para automação e análise de dados.
+* 🌐 **Infraestrutura:** Redes, CFTV e Manutenção Preditiva (redução de 60% em falhas).
+* 🧠 **Soft Skills:** Inteligência Emocional, ESG e Liderança de Processos.
 
 ---
 
 ## 💼 Experiência em Destaque
-* 🧪 **PropTech AI (IFNMG):** Assistente em Dados Júnior (Projetos Acadêmicos)[cite: 218].
-* 🛡️ **Wespseg:** Especialista em Suporte e Segurança Eletrônica[cite: 231].
-* 📱 **Plantão do Celular:** Microempresário e Gestor Técnico por 6 anos[cite: 244].
+* 🧪 **PropTech AI (IFNMG):** Assistente em Dados Júnior (Projetos Acadêmicos).
+* 🛡️ **Wespseg:** Especialista em Suporte e Segurança Eletrônica.
+* 📱 **Plantão do Celular:** Microempresário e Gestor Técnico por 6 anos.
 
 ---
 
@@ -41,5 +41,5 @@ Especialista em Tecnologia da Informação com mais de **8 anos de experiência*
 ---
 
 <p align="center">
-  <i>"Garbage In, Garbage Out: Garantindo a integridade dos dados para modelos de IA eficientes." [cite: 215]</i>
+  <i>"Garbage In, Garbage Out: Garantindo a integridade dos dados para modelos de IA eficientes."</i>
 </p>
