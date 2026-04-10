@@ -1,10 +1,10 @@
 # 🚀 Olá, eu sou Lúcio Rafael! 
-### **Especialista em Infraestrutura de TI | Futuro Engenheiro de Dados & IA**
+### **Especialista em Infraestrutura de TI | Futuro Técnico em Engenheiro de Dados & IA**
 
 ---
 
 ## 👨‍💻 Sobre Mim
-Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte técnico de alta complexidade. Atualmente, estou transitando minha expertise para o campo da **Inteligência Artificial e Engenharia de Dados** através do IFNMG.
+Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte técnico de alta complexidade. Atualmente, estou transitando minha expertise para o campo da **Inteligência Artificial e Técnico em Engenharia de Dados** através do IFNMG.
 
 * 🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso).
 * 🏗️ **Foco Atual:** Engenharia de Dados e Análise Preditiva.
