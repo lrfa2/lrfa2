@@ -9,7 +9,7 @@ Especialista em Tecnologia da Informação com mais de **8 anos de experiência*
 * 🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso).
 * 🏗️ **Foco Atual:** Engenharia de Dados e Análise Preditiva.
 * 🛠️ **Diferencial:** Visão crítica de "chão de fábrica" da TI aplicada a soluções inteligentes.
-*  📍 **Localização:** Contagem, MG - Brasil.
+*  📍   **Localização:** Contagem, MG - Brasil.
 
 ---
 
