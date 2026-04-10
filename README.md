@@ -4,26 +4,27 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-[cite_start]Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte de alta complexidade[cite: 35]. [cite_start]Atualmente, estou aplicando minha maturidade profissional na fronteira da **Inteligência Artificial**[cite: 36, 40].
+[cite_start]Especialista em Tecnologia da Informação com mais de **8 anos de experiência** em infraestrutura, redes e suporte técnico de alta complexidade[cite: 213]. [cite_start]Atualmente, estou transitando minha expertise para o campo da **Inteligência Artificial e Engenharia de Dados** através do IFNMG[cite: 214].
 
-* [cite_start]🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso)[cite: 5, 72].
-* [cite_start]🏗️ **Foco Atual:** Transição para Engenharia de Dados e Análise Preditiva[cite: 36, 40].
-* [cite_start]🛠️ **Diferencial:** Visão crítica de "chão de fábrica" da TI aplicada a soluções inteligentes.
-* [cite_start]📍 **Localização:** Contagem, MG - Brasil[cite: 33, 44].
+* [cite_start]🎓 **Formação:** Técnico em IA pelo **IFNMG** (em curso)[cite: 250].
+* [cite_start]🏗️ **Foco Atual:** Engenharia de Dados e Análise Preditiva[cite: 218].
+* [cite_start]🛠️ **Diferencial:** Visão crítica de "chão de fábrica" da TI aplicada a soluções inteligentes[cite: 218].
+* [cite_start]📍 **Localização:** Contagem, MG - Brasil[cite: 211].
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-* [cite_start]**Dados:** SQL (Extração e Modelagem), Integridade de Dados (GIGO)[cite: 37, 39, 45].
-* [cite_start]**Infraestrutura:** Redes, CFTV e Manutenção Preditiva (redução de 60% em falhas)[cite: 56, 57, 58].
-* [cite_start]**Soft Skills:** Inteligência Emocional, ESG e Liderança de Processos[cite: 27, 28, 68].
+* [cite_start]📊 **Dados:** SQL (Extração e Modelagem) e Integridade de Dados (GIGO)[cite: 215, 217].
+* [cite_start]🐍 **Programação:** Python para automação e análise de dados[cite: 216].
+* [cite_start]🌐 **Infraestrutura:** Redes, CFTV e Manutenção Preditiva (redução de 60% em falhas)[cite: 234, 236].
+* [cite_start]🧠 **Soft Skills:** Inteligência Emocional, ESG e Liderança de Processos[cite: 205, 206, 247].
 
 ---
 
 ## 💼 Experiência em Destaque
-* [cite_start]**PropTech AI (IFNMG):** Assistente em Dados Júnior (Projetos Acadêmicos)[cite: 40, 42, 43].
-* [cite_start]**Wespseg:** Especialista em Suporte e Segurança Eletrônica[cite: 53].
-* [cite_start]**Plantão do Celular:** Microempresário e Gestor Técnico por 6 anos[cite: 66].
+* [cite_start]🧪 **PropTech AI (IFNMG):** Assistente em Dados Júnior (Projetos Acadêmicos)[cite: 218].
+* [cite_start]🛡️ **Wespseg:** Especialista em Suporte e Segurança Eletrônica[cite: 231].
+* [cite_start]📱 **Plantão do Celular:** Microempresário e Gestor Técnico por 6 anos[cite: 244].
 
 ---
 
@@ -40,5 +41,5 @@
 ---
 
 <p align="center">
-  [cite_start]<i>"Garbage In, Garbage Out: Garantindo a integridade dos dados para modelos de IA eficientes." [cite: 37]</i>
+  [cite_start]<i>"Garbage In, Garbage Out: Garantindo a integridade dos dados para modelos de IA eficientes." [cite: 215]</i>
 </p>
